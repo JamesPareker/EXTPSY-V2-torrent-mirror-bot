@@ -1,5 +1,5 @@
 {
-    "name": "Deepak Clouds Mirror",
+    "name": "EXTPSY10436-V2",
     "description": "A Telegram bot for all your mirror needs",
     "logo": "https://imagetot.com/images/2021/06/17/d7e86862ce2686f4c6c6596bfa72785d.jpg",
     "keywords": [
@@ -8,7 +8,7 @@
       "python"
     ],
     "repository": "https://github.com/deepakcloudsoffical/deepak-clouds-mirror",
-    "website": "https://github.com/blackdeep04/deepak-clouds-mirror",
+    "website": "https://github.com/EXTPSY10436-V2/EXTPSY-V2-torrent-mirror-bot",
     "success_url": "https://t.me/cloudsmirror",
     "stack": "container",
     "env": {
@@ -75,13 +75,13 @@
         "required": true
       },
       "UPSTREAM_REPO": {
-        "description": "Link for Bot Upstream Repo, If you want default update, Fill https://github.com/blackdeep04/deepak-clouds-mirror.",
-        "value": "https://github.com/blackdeep04/deepak-clouds-mirror",
+        "description": "Link for Bot Upstream Repo, If you want default update, Fill https://github.com/EXTPSY10436-V2/EXTPSY-V2-torrent-mirror-bot.",
+        "value": "https://github.com/EXTPSY10436-V2/EXTPSY-V2-torrent-mirror-bot",
         "required": true
       },
       "UPSTREAM_BRANCH": {
-        "description": "Branch name for Upstream Repo (Recommended using master branch).",
-        "value": "master",
+        "description": "Branch name for Upstream Repo (Recommended using main branch).",
+        "value": "main",
         "required": true
       },
       "UPTOBOX_TOKEN": {
